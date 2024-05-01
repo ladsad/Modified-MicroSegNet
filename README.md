@@ -1,4 +1,4 @@
-# modified-MicroSegNet
+# Modified-MicroSegNet
 Modified Official PyTorch implementation of: 
 
 [MicroSegNet: A Deep Learning Approach for Prostate Segmentation on Micro-Ultrasound Images](https://www.sciencedirect.com/science/article/pii/S089561112400003X) (CMIG 2024)
