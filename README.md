@@ -3,6 +3,10 @@ Modified Official PyTorch implementation of:
 
 [MicroSegNet: A Deep Learning Approach for Prostate Segmentation on Micro-Ultrasound Images](https://www.sciencedirect.com/science/article/pii/S089561112400003X) (CMIG 2024)
 
+In colaboration with:
+Devika Iyer: github.com/DevikaIyer23
+Adisha Shaikh: github.com/adisha-shaikh
+
 ## Requirements
 * Python==3.9.13
 * torch==2.1.0
