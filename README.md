@@ -76,8 +76,6 @@ which provides a very good implementation to start with.
 * [MicroSegNet](https://github.com/mirthAI/MicroSegNet)
 
 ## Citations
-If you use our code or dataset, please cite our paper as below:
-
 ```
 @article{jiang2024microsegnet,
   title={MicroSegNet: A deep learning approach for prostate segmentation on micro-ultrasound images},
