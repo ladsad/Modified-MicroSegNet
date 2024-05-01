@@ -1,14 +1,10 @@
-# MicroSegNet
-Official PyTorch implementation of: 
+# Modified-MicroSegNet
+Modified Official PyTorch implementation of: 
 
 [MicroSegNet: A Deep Learning Approach for Prostate Segmentation on Micro-Ultrasound Images](https://www.sciencedirect.com/science/article/pii/S089561112400003X) (CMIG 2024)
 
-This is the first deep learning model for automated prostate segmentation on micro-ultrasound.
-
-The code is only for research purposes. If you have any questions regarding how to use this code, feel free to contact Hongxu Jiang (hongxu.jiang@medicine.ufl.edu).
-
 ## Requirements
-* Python==3.10.6
+* Python==3.9.13
 * torch==2.1.0
 * torchvision==0.16.0
 * numpy
@@ -77,11 +73,12 @@ python test_MicroUS.py --weight 10
 which provides a very good implementation to start with.
 * [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
 * [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
+* [MicroSegNet](https://github.com/mirthAI/MicroSegNet)
 
 ## Citations
 If you use our code or dataset, please cite our paper as below:
 
-```bibtex
+```
 @article{jiang2024microsegnet,
   title={MicroSegNet: A deep learning approach for prostate segmentation on micro-ultrasound images},
   author={Jiang, Hongxu and Imran, Muhammad and Muralidharan, Preethika and Patel, Anjali and Pensa, Jake and Liang, Muxuan and Benidir, Tarik and Grajo, Joseph R and Joseph, Jason P and Terry, Russell and others},
